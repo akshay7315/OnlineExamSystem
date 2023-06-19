@@ -32,31 +32,34 @@ class Game {
 				System.out.println("Your score is 100");
 				break;
 				case 2:
-				System.out.println("Your score is 90");
+				System.out.println("Your score is 95");
 				break;
 				case 3:
-				System.out.println("Your score is 80");
+				System.out.println("Your score is 85");
 				break;
 				case 4:
-				System.out.println("Your score is 70");
+				System.out.println("Your score is 75");
 				break;
 				case 5:
-				System.out.println("Your score is 60");
+				System.out.println("Your score is 65");
 				break;
 				case 6:
-				System.out.println("Your score is 50");
+				System.out.println("Your score is 55");
 				break;
 				case 7:
-				System.out.println("Your score is 40");
+				System.out.println("Your score is 45");
 				break;
 				case 8:
-				System.out.println("Your score is 30");
+				System.out.println("Your score is 35");
 				break;
 				case 9:
-				System.out.println("Your score is 20");
+				System.out.println("Your score is 25");
 				break;
 				case 10:
-				System.out.println("Your score is 10");
+				System.out.println("Your score is 15");
+				break;
+				case 11:
+				System.out.println("Your score is 5");
 				break;
 			}
 			System.out.println();
